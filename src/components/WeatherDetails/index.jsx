@@ -1,1 +1,1 @@
-export { defaul } from "./WeatherDetails"
+export { default } from "./WeatherDetails"
